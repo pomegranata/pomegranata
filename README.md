@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pomegranata
 - 👀 I’m interested in Machine Learning, Computer Vision, and Data Science
 - 🌱 I’m currently learning C++, HTML, CSS, JavaScript, Python, and PHP
-- 💞️ I’m looking to collaborate on learning so much more about programming
+- 💞️ I’m looking to collaborate on learning about programming
 - 📫 Reach me on Discord: amimir#4991
